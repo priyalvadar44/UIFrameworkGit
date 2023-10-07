@@ -1,0 +1,1 @@
+{"uuid":"fd58f5e6-e79a-43d2-913a-a2f721c2c196","name":"testcases.ViewAndUpdatePageProfilePageTest","children":["b744a6ee-8e36-4ee6-9e70-4d2aa2356e20"],"befores":[{"name":"initialize","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1683352917247,"stop":1683352917284}],"afters":[],"start":1683352917171,"stop":1683352917476}

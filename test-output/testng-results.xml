@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-19T18:18:31 IST" name="Default suite" finished-at="2023-08-19T18:19:30 IST" duration-ms="58853">
+    <groups>
+    </groups>
+    <test started-at="2023-08-19T18:18:31 IST" name="Default test" finished-at="2023-08-19T18:19:30 IST" duration-ms="58853">
+      <class name="testcases.ViewAndUpdatePageProfilePageTest">
+        <test-method is-config="true" signature="setLogger()[pri:0, instance:testcases.ViewAndUpdatePageProfilePageTest@3972a855]" started-at="2023-08-19T18:18:31 IST" name="setLogger" finished-at="2023-08-19T18:18:31 IST" duration-ms="109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setLogger -->
+        <test-method is-config="true" signature="initialize()[pri:0, instance:testcases.ViewAndUpdatePageProfilePageTest@3972a855]" started-at="2023-08-19T18:18:31 IST" name="initialize" finished-at="2023-08-19T18:18:59 IST" duration-ms="27430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="verfiyViewAndUpadtePage()[pri:1, instance:testcases.ViewAndUpdatePageProfilePageTest@3972a855]" started-at="2023-08-19T18:18:59 IST" name="verfiyViewAndUpadtePage" finished-at="2023-08-19T18:19:11 IST" duration-ms="12546" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verfiyViewAndUpadtePage -->
+        <test-method signature="uploadResumeTest()[pri:2, instance:testcases.ViewAndUpdatePageProfilePageTest@3972a855]" started-at="2023-08-19T18:19:11 IST" name="uploadResumeTest" finished-at="2023-08-19T18:19:30 IST" duration-ms="18706" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- uploadResumeTest -->
+      </class> <!-- testcases.ViewAndUpdatePageProfilePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,7 @@
+
+1.   java.lang.NullPointerException: Cannot invoke "genricHelper.GenricHelper.clickOnWebElment(org.openqa.selenium.WebElement)"
+     because "this.genricHelper" is null
+     
+2.   org.openqa.selenium.InvalidArgumentException: invalid argument
+
+3.   org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of 
